@@ -1,5 +1,6 @@
 {
     "title": "Murder Speed Modifier",
     "type": "ServerContent",
-    "tags": ["fun"]
+    "tags": ["fun"],
+    "ignore": [".git*", "README.md", "LICENSE"]
 }
