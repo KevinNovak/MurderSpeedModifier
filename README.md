@@ -1,5 +1,7 @@
 ### Description
 
+![Murder Speed Modifier](https://i.imgur.com/Sp8kXJF.png)
+
 Allows you to adjust to adjust the speeds of players in the Garry's Mod Murder gamemode. Can change walking speed, running speed, and whether running is enabled for both murderer and bystanders.
 
 By default, bystanders are now allowed to run (at a slower speed than the murderer).
