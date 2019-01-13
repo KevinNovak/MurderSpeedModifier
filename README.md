@@ -1,4 +1,4 @@
-### Description
+## Description
 
 ![Murder Speed Modifier](https://i.imgur.com/Sp8kXJF.png)
 
@@ -8,11 +8,11 @@ By default, bystanders are now allowed to run (at a slower speed than the murder
 
 See the **Configuration** section to adjust these values.
 
-### Requirements
+## Requirements
 
 1. [Murder](https://steamcommunity.com/sharedfiles/filedetails/?id=187073946) by [Mechanical Mind](https://steamcommunity.com/id/mechanicalmind)
 
-### Installation
+## Installation
 
 This addon only runs server-side. No need to add to a collection.
 
@@ -21,11 +21,11 @@ This addon only runs server-side. No need to add to a collection.
 3. Locate the Murder Speed Modifier gma file in your steam install directory, under `steamapps\common\GarrysMod\garrysmod\addons`.
 4. Move the gma file into your servers `garrysmod\addons` folder.
 
-### Configuration
+## Configuration
 
 If you'd like, place these variables inside your `server.cfg` file.
 
-#### Murderer
+### Murderer
 
 * `msm_murderer_walk_speed` - The speed that the murderer should walk.
   * *Default*: 250
@@ -35,7 +35,7 @@ If you'd like, place these variables inside your `server.cfg` file.
 * `msm_murderer_run_speed` - The speed that the murderer should run.
   * *Default*: 310
 
-#### Bystander
+### Bystander
 
 * `msm_bystander_walk_speed` - The speed that bystanders should walk.
   * *Default*: 250
